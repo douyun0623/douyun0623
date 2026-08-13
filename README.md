@@ -1,7 +1,18 @@
-# 김도윤
+<h1 align="center">김도윤</h1>
 
-**Game Client Developer**
+<p align="center">
+  <strong>Game Client Developer</strong>
+</p>
 
-## Stack
+<p align="center">
+  <sub>GAMEPLAY &nbsp;·&nbsp; REAL-TIME GRAPHICS &nbsp;·&nbsp; ENGINE SYSTEMS</sub>
+</p>
 
-`C++` · `Unreal Engine 5` · `OpenGL / GLSL` · `Kotlin / Android`
+<br />
+
+<p align="center">
+  <kbd>C++</kbd>&nbsp;
+  <kbd>Unreal Engine 5</kbd>&nbsp;
+  <kbd>OpenGL / GLSL</kbd>&nbsp;
+  <kbd>Kotlin / Android</kbd>
+</p>

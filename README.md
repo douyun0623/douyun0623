@@ -9,10 +9,9 @@
 ## About Me
 
 ```txt
-Name       Kim Doyun
 Focus      Game client development
 Interests  Gameplay, graphics, engine systems
-Tools      C++, Unreal Engine 5, OpenGL
+Stack      C++, Unreal Engine 5, OpenGL, Android
 ```
 
 ## Tech Stack
@@ -23,9 +22,7 @@ Tools      C++, Unreal Engine 5, OpenGL
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -34,12 +31,3 @@ Tools      C++, Unreal Engine 5, OpenGL
 - **[Dash Hero](https://github.com/douyun0623/2026-spgp-dash-hero)** — Kotlin / Android Canvas 2D runner
 - **[Shader Programming](https://github.com/douyun0623/2025-shader-programming)** — C++ / OpenGL / GLSL rendering lab
 - **[Unreal Action Survival](https://github.com/douyun0623/2025-unreal-final-project)** — Unreal Engine 5 combat and AI prototype
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=douyun0623&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;rank_icon=github" alt="douyun0623 GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douyun0623&amp;layout=compact&amp;hide_border=true&amp;theme=transparent" alt="douyun0623 top languages" />
-
-</div>

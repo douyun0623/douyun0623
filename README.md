@@ -4,10 +4,6 @@
   <strong>Game Client Developer</strong>
 </p>
 
-<p align="center">
-  <sub>GAMEPLAY &nbsp;·&nbsp; REAL-TIME GRAPHICS &nbsp;·&nbsp; ENGINE SYSTEMS</sub>
-</p>
-
 <br />
 
 <p align="center">

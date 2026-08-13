@@ -1,36 +1,45 @@
-# 김도윤 | Game Client Developer
+<div align="center">
 
-게임플레이 로직과 렌더링 기술을 코드로 구현하고, 구현 근거와 실행 방법을 문서화합니다.  
-C++ 그래픽스·네트워크부터 Kotlin Android 게임과 Unreal Engine 5 Blueprint 프로토타입까지 경험했습니다.
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=210&amp;color=0:74C0FC,50:A78BFA,100:C084FC&amp;text=douyun0623&amp;fontAlign=50&amp;fontAlignY=38&amp;fontSize=46&amp;fontColor=ffffff&amp;desc=Game%20Client%20Developer&amp;descAlign=50&amp;descAlignY=58&amp;animation=fadeIn" width="100%" alt="douyun0623 header" />
 
-## 대표 프로젝트
+게임플레이와 그래픽스 기술을 구현하고, 과정을 기록합니다.
 
-- **[Dash Hero](https://github.com/douyun0623/2026-spgp-dash-hero)**  
-  Kotlin과 Android Canvas로 구현한 2D 러너 액션 게임입니다. 대시, 절차적 발판 생성, 충돌 판정, SceneStack과 Top 3 기록을 구현했습니다.
+</div>
 
-- **[OpenGL Shader Programming Lab](https://github.com/douyun0623/2025-shader-programming)**  
-  C++/OpenGL/GLSL로 2,500개 GPU 파티클, HDR MRT, Gaussian blur와 bloom 후처리를 구현했습니다.
+## About Me
 
-- **[Unreal Action Survival Prototype](https://github.com/douyun0623/2025-unreal-final-project)**  
-  Unreal Engine 5.5 Blueprint로 전투, Behavior Tree 기반 적 AI, 상호작용, 아이템과 보상 흐름을 구성했습니다.
+```txt
+Name       Kim Doyun
+Focus      Game client development
+Interests  Gameplay, graphics, engine systems
+Tools      C++, Unreal Engine 5, OpenGL
+```
 
-- **[2D Action Shooting Game](https://github.com/douyun0623/2024-2dgp-project)**  
-  Python/Pico2D로 무기 5종, 상태 기반 적·보스 AI와 전투 구역 진행을 구현했습니다.
+## Tech Stack
 
-- **[Winsock2 TCP File Transfer](https://github.com/douyun0623/2025-network-programming-assignments)**  
-  C++/Winsock2로 파일 메타데이터와 본문 전송, 서버 수신 진행률을 구현하고 로컬 루프백 전송을 검증했습니다.
+<div align="center">
 
-- **[STL Player Data Analyzer](https://github.com/douyun0623/2025-stl-assignment)**  
-  250만 개 `Player` 객체를 한 번 적재하고 포인터 인덱스와 STL 알고리즘으로 통계·정렬·다중 기준 검색을 수행했습니다.
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 기술
+</div>
 
-- **Languages:** C++, Kotlin, Python, GLSL
-- **Game & Graphics:** Unreal Engine 5 Blueprint, OpenGL, Android Canvas, Pico2D
-- **Engineering:** STL, Winsock2/TCP, Visual Studio 2022, Android Studio
+## Selected Projects
 
-## 학습 기록
+- **[Dash Hero](https://github.com/douyun0623/2026-spgp-dash-hero)** — Kotlin / Android Canvas 2D runner
+- **[Shader Programming](https://github.com/douyun0623/2025-shader-programming)** — C++ / OpenGL / GLSL rendering lab
+- **[Unreal Action Survival](https://github.com/douyun0623/2025-unreal-final-project)** — Unreal Engine 5 combat and AI prototype
 
-- [C++ STL Notes](https://github.com/douyun0623/2025-stl-notes)
-- [Unreal Engine 5 Blueprint 실습 02](https://github.com/douyun0623/2025-unreal-assignment-02)
-- [Unreal Engine 5 Blueprint 실습 03](https://github.com/douyun0623/2025-unreal-assignment-03)
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=douyun0623&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;rank_icon=github" alt="douyun0623 GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douyun0623&amp;layout=compact&amp;hide_border=true&amp;theme=transparent" alt="douyun0623 top languages" />
+
+</div>
